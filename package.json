@@ -1,0 +1,23 @@
+{
+  "name": "webpack-study",
+  "version": "1.0.0",
+  "description": "study webpack code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamberlain99/webpack-study.git"
+  },
+  "keywords": [
+    "webpack",
+    "vue"
+  ],
+  "author": "chamberlain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamberlain99/webpack-study/issues"
+  },
+  "homepage": "https://github.com/Chamberlain99/webpack-study#readme"
+}
